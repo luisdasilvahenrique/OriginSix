@@ -31,3 +31,14 @@ window.addEventListener('scroll', function() {
         header.classList.remove('scroll')
     }
 })
+
+// Swiper : Testimonials - Carrosel
+
+const swiper = new Swiper('.swiper', {
+    slidesPreView: 1,
+    pagination: {
+        el: '.swiper-pagination'    
+    },
+    mouseheel: true,
+    Keyboard: true
+  });

@@ -227,7 +227,7 @@ main {
 }
 
 .grid {
-  display: grid;
+  /* display: grid; */
   gap: 2rem;
 }
 
@@ -374,6 +374,17 @@ main {
   background: white;
 }
 
+#testimonials .container{
+  margin-left: 0;
+  margin-right: 0;
+}
+
+#testimonials header {
+  margin-bottom: 0;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
 #testimonials blockquote{
   padding: 2rem;
   box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
@@ -409,4 +420,14 @@ main {
    /*cover - cobrir a imagem */
    clip-path: circle();
    margin-right: 0.5rem;
+}
+
+/* swiper */
+.swiper-slide{
+  height: auto;
+  padding: 4rem 1rem;
+}
+
+.swiper-pagination-bullets-active{
+  background: var(--base-color);
 }
