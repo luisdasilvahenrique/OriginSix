@@ -3,7 +3,7 @@
 
 ![parte 1](https://user-images.githubusercontent.com/61327251/153201986-e97a0a67-1427-44a9-b62d-9c409ada7bf1.png)
 ![parte 2](https://user-images.githubusercontent.com/61327251/153202045-ced387d6-fc9a-4edb-b863-5897e61de235.png)
-![depoimentos](https://user-images.githubusercontent.com/61327251/153601073-330e2dcc-6a10-4b5e-8273-ac4b778e756b.png)
+![parte 3](https://user-images.githubusercontent.com/61327251/153601490-9899953f-d2d4-4013-b1bf-17ba307ce045.png)
 
 <br/>
 Um projeto ofertado pela equipe da <strong> @Rocketseat </strong> durante o NLW(Never Stop Learning) 6° Edição.
