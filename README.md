@@ -14,4 +14,8 @@ No qual consiste na criação de um web site usando as tecnologias:
 	🚧  Front-end 🚀 Em construção...  🚧
 </h4>
 
+# Bibliotecas 
+#### Swiper
+#### ScrllReveal
+#### Google Fonts
 
