@@ -87,6 +87,10 @@ body {
   --body-color: hsl(0 0% 98%);
   --pixel-color: #e4e4e4;
   --header-height: 4.5rem;
+
+  /* font-size */
+  --title-font-size: 1.875rem;
+  --subtitle-font-size: 1rem;
 }
 
 /* Layout */
@@ -241,6 +245,10 @@ main {
 
 .section .title{
   margin-bottom: 1rem;
+}
+
+.section .subtitle {
+  font-size: var(--subtitle-font-size);
 }
 
 .section header {
@@ -532,4 +540,17 @@ footer .social a:hover{
    visibility: visible;
    opacity: 1;
    transform: translateY(0);
+ }
+
+ /* Media Queries */
+
+ @media (min-width: 1200px){
+  
+ }
+
+ @media (min-width: 992px){
+   :root{
+     --title-font-size: 2.25rem;
+     --subtitle-font-size: 1.125rem;
+   }
  }
