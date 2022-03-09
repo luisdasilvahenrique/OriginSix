@@ -10,10 +10,6 @@ No qual consiste na criação de um web site usando as tecnologias:
 #### CSS3
 #### JavaScript
 
-<h4 align="center"> 
-	🚧  Front-end 🚀 Em construção...  🚧
-</h4>
-
 # Bibliotecas 
 #### Swiper
 #### ScrllReveal
